@@ -21,13 +21,13 @@ This repository features a robust multi-channel notification system designed to 
 
 ### 1. Main Orchestration Workflow
 The engine fetches tomorrow's schedule and dispatches personalized messages across all platforms.
-<img src="img/full_reminders_workflow.jpg" width="600" alt="Main Reminder Workflow">
+<img src="img/full_reminders_workflow.png" width="600" alt="Main Reminder Workflow">
 
 ### 2. Multi-Channel Experience
 The patient receives a professional, branded reminder regardless of the platform.
 | WhatsApp | Telegram | Email |
 | :---: | :---: | :---: |
-| <img src="img/whatsapp_reminder.jpg" width="200"> | <img src="img/telegram_reminder.jpg" width="200"> | <img src="img/email_reminder.jpg" width="200"> |
+| <img src="img/whatsapp_reminder.png" width="200"> | <img src="img/telegram_reminder.png" width="200"> | <img src="img/email_reminder.jpg" width="200"> |
 
 ### 3. Automated Confirmation Logic
 Dedicated workflows to handle incoming confirmations from Telegram and Email links.
