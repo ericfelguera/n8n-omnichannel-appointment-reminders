@@ -27,7 +27,7 @@ The engine fetches tomorrow's schedule and dispatches personalized messages acro
 The patient receives a professional, branded reminder regardless of the platform.
 | WhatsApp | Telegram | Email |
 | :---: | :---: | :---: |
-| <img src="img/whatsapp_reminder.png" width="200"> | <img src="img/telegram_reminder.png" width="200"> | <img src="img/email_reminder.jpg" width="200"> |
+| <img src="img/whatsapp_reminder.PNG" width="200"> | <img src="img/telegram_reminder.PNG" width="200"> | <img src="img/email_reminder.jpg" width="200"> |
 
 ### 3. Automated Confirmation Logic
 Dedicated workflows to handle incoming confirmations from Telegram and Email links.
